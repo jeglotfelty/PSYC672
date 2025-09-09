@@ -1,0 +1,361 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global}
+    \entry{remes_biological_2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d441f84b028e25c5a848ab14a32c0ab8}{%
+           family={Remes},
+           familyi={R\bibinitperiod},
+           given={Olivia},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a52ab752133f0d8ea6ebd1baa7059f2b}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={João\bibnamedelima Francisco},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14cf984ff7c3c4f7e88bc42219b2df52}{%
+           family={Templeton},
+           familyi={T\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2d486fcedff6f6510f4a8f28d4e2a3fb}
+      \strng{fullhash}{0f9eea9f168f8aef27f319b55f93d385}
+      \strng{bibnamehash}{0f9eea9f168f8aef27f319b55f93d385}
+      \strng{authorbibnamehash}{0f9eea9f168f8aef27f319b55f93d385}
+      \strng{authornamehash}{2d486fcedff6f6510f4a8f28d4e2a3fb}
+      \strng{authorfullhash}{0f9eea9f168f8aef27f319b55f93d385}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Depression is one of the leading causes of disability, and, if left unmanaged, it can increase the risk for suicide. The evidence base on the determinants of depression is fragmented, which makes the interpretation of the results across studies difficult. The objective of this study is to conduct a thorough synthesis of the literature assessing the biological, psychological, and social determinants of depression in order to piece together the puzzle of the key factors that are related to this condition. Titles and abstracts published between 2017 and 2020 were identified in {PubMed}, as well as Medline, Scopus, and {PsycInfo}. Key words relating to biological, social, and psychological determinants as well as depression were applied to the databases, and the screening and data charting of the documents took place. We included 470 documents in this literature review. The findings showed that there are a plethora of risk and protective factors (relating to biological, psychological, and social determinants) that are related to depression; these determinants are interlinked and influence depression outcomes through a web of causation. In this paper, we describe and present the vast, fragmented, and complex literature related to this topic. This review may be used to guide practice, public health efforts, policy, and research related to mental health and, specifically, depression.}
+      \field{day}{10}
+      \field{issn}{2076-3425}
+      \field{journaltitle}{Brain Sciences}
+      \field{month}{12}
+      \field{number}{12}
+      \field{shortjournal}{Brain Sci}
+      \field{shorttitle}{Biological, Psychological, and Social Determinants of Depression}
+      \field{title}{Biological, Psychological, and Social Determinants of Depression: A Review of Recent Literature}
+      \field{urlday}{8}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1633}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/brainsci11121633
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699555/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699555/
+      \endverb
+    \endentry
+    \entry{Rottenberg2007RSA}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2ba4a025aa8dbcaebd30b155d4ecddaf}{%
+           family={Rottenberg},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9619d4f9d55f22bae8a81a181852cf7a}{%
+           family={Clift},
+           familyi={C\bibinitperiod},
+           given={April},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5786ade04394575e9341281db74bd5ed}{%
+           family={Bolden},
+           familyi={B\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9e0c78859a4910118d41ac2937be46a}{%
+           family={Salomon},
+           familyi={S\bibinitperiod},
+           given={Kristen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2304d7d1003234b9c1ef84bc2e9207c1}
+      \strng{fullhash}{e34c6daed816475d50bf4912ba9dd6c5}
+      \strng{bibnamehash}{e34c6daed816475d50bf4912ba9dd6c5}
+      \strng{authorbibnamehash}{e34c6daed816475d50bf4912ba9dd6c5}
+      \strng{authornamehash}{2304d7d1003234b9c1ef84bc2e9207c1}
+      \strng{authorfullhash}{e34c6daed816475d50bf4912ba9dd6c5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Cardiac vagal control, as measured by indices of respiratory sinus arrhythmia (RSA), has been investigated as a marker of impaired self-regulation in mental disorders, including depression. Past work in depressed samples has focused on deficits in resting RSA levels, with mixed results. This study tested the hypothesis that depression involves abnormal RSA fluctuation. RSA was measured in depressed and healthy control participants during rest and during two reactivity tasks, each followed by a recovery period. Relative to controls, depressed persons exhibited lower resting RSA levels as well as less RSA fluctuation, primarily evidenced by a lack of task-related vagal suppression. Group differences in RSA fluctuation were not accounted for by differences in physical health or respiration, whereas group differences in resting RSA level did not survive covariate analyses. Depression may involve multiple deficits in cardiac vagal control.}
+      \field{journaltitle}{Psychophysiology}
+      \field{number}{3}
+      \field{title}{RSA fluctuation in major depressive disorder}
+      \field{volume}{44}
+      \field{year}{2007}
+      \field{pages}{450\bibrangedash 458}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1111/j.1469-8986.2007.00509.x
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-8986.2007.00509.x
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-8986.2007.00509.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-8986.2007.00509.x
+      \endverb
+      \keyw{Cardiac vagal control,Depression,Reactivity,Stress}
+    \endentry
+    \entry{stringaris_editorial_2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06184086fa9fafd57802f850bb300363}{%
+           family={Stringaris},
+           familyi={S\bibinitperiod},
+           given={Argyris},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06184086fa9fafd57802f850bb300363}
+      \strng{fullhash}{06184086fa9fafd57802f850bb300363}
+      \strng{bibnamehash}{06184086fa9fafd57802f850bb300363}
+      \strng{authorbibnamehash}{06184086fa9fafd57802f850bb300363}
+      \strng{authornamehash}{06184086fa9fafd57802f850bb300363}
+      \strng{authorfullhash}{06184086fa9fafd57802f850bb300363}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{'Depression is a common, debilitating, and potentially lethal disorder.' This is a standard opening to many a scientific paper on depression. And it is often followed by some very grim statistics. Over 300 million people in the world are estimated to live with depression, and the disorder is ranked by {WHO} as the single largest contributor to global disability. Most worryingly, adolescents with major depressive disorder are up to 30 times more likely to commit suicide. Yet, what exactly is depression? Do all 300 million depressed people in the world suffer from the same thing, with the same aetiology? Is depression one disorder that comes in different shades of severity or is it best thought of as heterogeneous mix of problems that we have given one common name to? And, more practically, should we be treating all depression in similar ways?}
+      \field{issn}{1469-7610}
+      \field{journaltitle}{Journal of Child Psychology and Psychiatry, and Allied Disciplines}
+      \field{month}{12}
+      \field{number}{12}
+      \field{shortjournal}{J Child Psychol Psychiatry}
+      \field{shorttitle}{Editorial}
+      \field{title}{Editorial: What is depression?}
+      \field{volume}{58}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1287\bibrangedash 1289}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1111/jcpp.12844
+      \endverb
+      \verb{file}
+      \verb Full Text:C\:\\Users\\jenna\\Zotero\\storage\\7BSHLL27\\Stringaris - 2017 - Editorial What is depression.pdf:application/pdf
+      \endverb
+      \keyw{Depressive Disorder,Humans}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global}
+    \entry{remes_biological_2021}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=d441f84b028e25c5a848ab14a32c0ab8}{%
+           family={Remes},
+           familyi={R\bibinitperiod},
+           given={Olivia},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a52ab752133f0d8ea6ebd1baa7059f2b}{%
+           family={Mendes},
+           familyi={M\bibinitperiod},
+           given={João\bibnamedelima Francisco},
+           giveni={J\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=14cf984ff7c3c4f7e88bc42219b2df52}{%
+           family={Templeton},
+           familyi={T\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2d486fcedff6f6510f4a8f28d4e2a3fb}
+      \strng{fullhash}{0f9eea9f168f8aef27f319b55f93d385}
+      \strng{bibnamehash}{0f9eea9f168f8aef27f319b55f93d385}
+      \strng{authorbibnamehash}{0f9eea9f168f8aef27f319b55f93d385}
+      \strng{authornamehash}{2d486fcedff6f6510f4a8f28d4e2a3fb}
+      \strng{authorfullhash}{0f9eea9f168f8aef27f319b55f93d385}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{Depression is one of the leading causes of disability, and, if left unmanaged, it can increase the risk for suicide. The evidence base on the determinants of depression is fragmented, which makes the interpretation of the results across studies difficult. The objective of this study is to conduct a thorough synthesis of the literature assessing the biological, psychological, and social determinants of depression in order to piece together the puzzle of the key factors that are related to this condition. Titles and abstracts published between 2017 and 2020 were identified in {PubMed}, as well as Medline, Scopus, and {PsycInfo}. Key words relating to biological, social, and psychological determinants as well as depression were applied to the databases, and the screening and data charting of the documents took place. We included 470 documents in this literature review. The findings showed that there are a plethora of risk and protective factors (relating to biological, psychological, and social determinants) that are related to depression; these determinants are interlinked and influence depression outcomes through a web of causation. In this paper, we describe and present the vast, fragmented, and complex literature related to this topic. This review may be used to guide practice, public health efforts, policy, and research related to mental health and, specifically, depression.}
+      \field{day}{10}
+      \field{issn}{2076-3425}
+      \field{journaltitle}{Brain Sciences}
+      \field{month}{12}
+      \field{number}{12}
+      \field{shortjournal}{Brain Sci}
+      \field{shorttitle}{Biological, Psychological, and Social Determinants of Depression}
+      \field{title}{Biological, Psychological, and Social Determinants of Depression: A Review of Recent Literature}
+      \field{urlday}{8}
+      \field{urlmonth}{9}
+      \field{urlyear}{2025}
+      \field{volume}{11}
+      \field{year}{2021}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \field{pages}{1633}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.3390/brainsci11121633
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699555/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8699555/
+      \endverb
+    \endentry
+    \entry{Rottenberg2007RSA}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=2ba4a025aa8dbcaebd30b155d4ecddaf}{%
+           family={Rottenberg},
+           familyi={R\bibinitperiod},
+           given={Jonathan},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9619d4f9d55f22bae8a81a181852cf7a}{%
+           family={Clift},
+           familyi={C\bibinitperiod},
+           given={April},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5786ade04394575e9341281db74bd5ed}{%
+           family={Bolden},
+           familyi={B\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b9e0c78859a4910118d41ac2937be46a}{%
+           family={Salomon},
+           familyi={S\bibinitperiod},
+           given={Kristen},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2304d7d1003234b9c1ef84bc2e9207c1}
+      \strng{fullhash}{e34c6daed816475d50bf4912ba9dd6c5}
+      \strng{bibnamehash}{e34c6daed816475d50bf4912ba9dd6c5}
+      \strng{authorbibnamehash}{e34c6daed816475d50bf4912ba9dd6c5}
+      \strng{authornamehash}{2304d7d1003234b9c1ef84bc2e9207c1}
+      \strng{authorfullhash}{e34c6daed816475d50bf4912ba9dd6c5}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Abstract Cardiac vagal control, as measured by indices of respiratory sinus arrhythmia (RSA), has been investigated as a marker of impaired self-regulation in mental disorders, including depression. Past work in depressed samples has focused on deficits in resting RSA levels, with mixed results. This study tested the hypothesis that depression involves abnormal RSA fluctuation. RSA was measured in depressed and healthy control participants during rest and during two reactivity tasks, each followed by a recovery period. Relative to controls, depressed persons exhibited lower resting RSA levels as well as less RSA fluctuation, primarily evidenced by a lack of task-related vagal suppression. Group differences in RSA fluctuation were not accounted for by differences in physical health or respiration, whereas group differences in resting RSA level did not survive covariate analyses. Depression may involve multiple deficits in cardiac vagal control.}
+      \field{journaltitle}{Psychophysiology}
+      \field{number}{3}
+      \field{title}{RSA fluctuation in major depressive disorder}
+      \field{volume}{44}
+      \field{year}{2007}
+      \field{pages}{450\bibrangedash 458}
+      \range{pages}{9}
+      \verb{doi}
+      \verb https://doi.org/10.1111/j.1469-8986.2007.00509.x
+      \endverb
+      \verb{eprint}
+      \verb https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1469-8986.2007.00509.x
+      \endverb
+      \verb{urlraw}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-8986.2007.00509.x
+      \endverb
+      \verb{url}
+      \verb https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1469-8986.2007.00509.x
+      \endverb
+      \keyw{Cardiac vagal control,Depression,Reactivity,Stress}
+    \endentry
+    \entry{stringaris_editorial_2017}{article}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=06184086fa9fafd57802f850bb300363}{%
+           family={Stringaris},
+           familyi={S\bibinitperiod},
+           given={Argyris},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{06184086fa9fafd57802f850bb300363}
+      \strng{fullhash}{06184086fa9fafd57802f850bb300363}
+      \strng{bibnamehash}{06184086fa9fafd57802f850bb300363}
+      \strng{authorbibnamehash}{06184086fa9fafd57802f850bb300363}
+      \strng{authornamehash}{06184086fa9fafd57802f850bb300363}
+      \strng{authorfullhash}{06184086fa9fafd57802f850bb300363}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{shorttitle}
+      \field{abstract}{'Depression is a common, debilitating, and potentially lethal disorder.' This is a standard opening to many a scientific paper on depression. And it is often followed by some very grim statistics. Over 300 million people in the world are estimated to live with depression, and the disorder is ranked by {WHO} as the single largest contributor to global disability. Most worryingly, adolescents with major depressive disorder are up to 30 times more likely to commit suicide. Yet, what exactly is depression? Do all 300 million depressed people in the world suffer from the same thing, with the same aetiology? Is depression one disorder that comes in different shades of severity or is it best thought of as heterogeneous mix of problems that we have given one common name to? And, more practically, should we be treating all depression in similar ways?}
+      \field{issn}{1469-7610}
+      \field{journaltitle}{Journal of Child Psychology and Psychiatry, and Allied Disciplines}
+      \field{month}{12}
+      \field{number}{12}
+      \field{shortjournal}{J Child Psychol Psychiatry}
+      \field{shorttitle}{Editorial}
+      \field{title}{Editorial: What is depression?}
+      \field{volume}{58}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{pages}{1287\bibrangedash 1289}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1111/jcpp.12844
+      \endverb
+      \verb{file}
+      \verb Full Text:C\:\\Users\\jenna\\Zotero\\storage\\7BSHLL27\\Stringaris - 2017 - Editorial What is depression.pdf:application/pdf
+      \endverb
+      \keyw{Depressive Disorder,Humans}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
